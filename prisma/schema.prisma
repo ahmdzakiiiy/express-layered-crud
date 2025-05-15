@@ -21,5 +21,4 @@ model Product {
   stock Int
   description String
   image String
-  
 }
